@@ -1,6 +1,6 @@
-import React, {useState} from './node_modules/react'
-import {Link, useHistory} from './node_modules/react-router-dom'
-import {FiLogIn} from './node_modules/react-icons/fi'
+import React, {useState} from 'react'
+import {Link, useHistory} from 'react-router-dom'
+import {FiLogIn} from 'react-icons/fi'
 
 import api from '../../services/api'
 
